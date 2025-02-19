@@ -10,6 +10,7 @@ node_modules
 **/*.cert
 .vscode
 **/*.lock
+**/.~lock.*
 **/*.save
 **/*.bak
 **/*.swp
@@ -19,6 +20,7 @@ node_modules
 **/*.bak.*
 **/*.bak/
 **/bak
+**/ver_bak
 **/temp
 **/tmp
 **/tmp.*
