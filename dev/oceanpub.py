@@ -274,4 +274,4 @@ def process_csv(file_path, BATCH_SIZE=5):
 
 
 if __name__ == "__main__":
-    process_csv('../data/papers_fix4.csv')
+    process_csv('../data/missing_titles_fix3.csv')
